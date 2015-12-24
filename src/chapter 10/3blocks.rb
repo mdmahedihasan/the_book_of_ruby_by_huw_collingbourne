@@ -1,0 +1,1 @@
+a = Proc.new{|x| x=x*10; puts(x)}
