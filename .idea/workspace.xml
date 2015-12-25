@@ -19,11 +19,14 @@
     <SUITE FILE_PATH="coverage/The Book of Ruby_Huw Collingbourne@raise3.coverage" NAME="raise3 Coverage Results" MODIFIED="1450926059263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/chapter 9" MODULE_NAME="The Book of Ruby_Huw Collingbourne" />
     <SUITE FILE_PATH="coverage/The Book of Ruby_Huw Collingbourne@2loops.coverage" NAME="2loops Coverage Results" MODIFIED="1450716587395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/chapter 5" MODULE_NAME="The Book of Ruby_Huw Collingbourne" />
     <SUITE FILE_PATH="coverage/The Book of Ruby_Huw Collingbourne@symbols_3.coverage" NAME="symbols_3 Coverage Results" MODIFIED="1450997471859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/chapter 11" MODULE_NAME="The Book of Ruby_Huw Collingbourne" />
+    <SUITE FILE_PATH="coverage/The Book of Ruby_Huw Collingbourne@load_module.coverage" NAME="load_module Coverage Results" MODIFIED="1451007453410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/chapter 12" MODULE_NAME="The Book of Ruby_Huw Collingbourne" />
     <SUITE FILE_PATH="coverage/The Book of Ruby_Huw Collingbourne@exception1.coverage" NAME="exception1 Coverage Results" MODIFIED="1450920883425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/chapter 9" MODULE_NAME="The Book of Ruby_Huw Collingbourne" />
     <SUITE FILE_PATH="coverage/The Book of Ruby_Huw Collingbourne@iterate2.coverage" NAME="iterate2 Coverage Results" MODIFIED="1450989998358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/chapter 10" MODULE_NAME="The Book of Ruby_Huw Collingbourne" />
     <SUITE FILE_PATH="coverage/The Book of Ruby_Huw Collingbourne@identical.coverage" NAME="identical Coverage Results" MODIFIED="1450919691889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/chapter 8" MODULE_NAME="The Book of Ruby_Huw Collingbourne" />
     <SUITE FILE_PATH="coverage/The Book of Ruby_Huw Collingbourne@2blocks.coverage" NAME="2blocks Coverage Results" MODIFIED="1450928942035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/chapter 10" MODULE_NAME="The Book of Ruby_Huw Collingbourne" />
+    <SUITE FILE_PATH="coverage/The Book of Ruby_Huw Collingbourne@testmod.coverage" NAME="testmod Coverage Results" MODIFIED="1451006648693" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/chapter 12" MODULE_NAME="The Book of Ruby_Huw Collingbourne" />
     <SUITE FILE_PATH="coverage/The Book of Ruby_Huw Collingbourne@allsymbols.coverage" NAME="allsymbols Coverage Results" MODIFIED="1451001547944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/chapter 11" MODULE_NAME="The Book of Ruby_Huw Collingbourne" />
+    <SUITE FILE_PATH="coverage/The Book of Ruby_Huw Collingbourne@scope_resolution.coverage" NAME="scope_resolution Coverage Results" MODIFIED="1451009725655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/chapter 12" MODULE_NAME="The Book of Ruby_Huw Collingbourne" />
     <SUITE FILE_PATH="coverage/The Book of Ruby_Huw Collingbourne@inst_vars.coverage" NAME="inst_vars Coverage Results" MODIFIED="1450903601524" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/chapter 7" MODULE_NAME="The Book of Ruby_Huw Collingbourne" />
     <SUITE FILE_PATH="coverage/The Book of Ruby_Huw Collingbourne@for_to.coverage" NAME="for_to Coverage Results" MODIFIED="1450657609687" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" MODULE_NAME="The Book of Ruby_Huw Collingbourne" />
     <SUITE FILE_PATH="coverage/The Book of Ruby_Huw Collingbourne@not_hidden.coverage" NAME="not_hidden Coverage Results" MODIFIED="1450917411125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/chapter 8" MODULE_NAME="The Book of Ruby_Huw Collingbourne" />
@@ -32,6 +35,7 @@
     <SUITE FILE_PATH="coverage/The Book of Ruby_Huw Collingbourne@default_args.coverage" NAME="default_args Coverage Results" MODIFIED="1450915018534" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/chapter 8" MODULE_NAME="The Book of Ruby_Huw Collingbourne" />
     <SUITE FILE_PATH="coverage/The Book of Ruby_Huw Collingbourne@send.coverage" NAME="send Coverage Results" MODIFIED="1450909002237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/chapter 7" MODULE_NAME="The Book of Ruby_Huw Collingbourne" />
     <SUITE FILE_PATH="coverage/The Book of Ruby_Huw Collingbourne@objectids.coverage" NAME="objectids Coverage Results" MODIFIED="1450916251241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/chapter 8" MODULE_NAME="The Book of Ruby_Huw Collingbourne" />
+    <SUITE FILE_PATH="coverage/The Book of Ruby_Huw Collingbourne@module_func.coverage" NAME="module_func Coverage Results" MODIFIED="1451010285601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/chapter 12" MODULE_NAME="The Book of Ruby_Huw Collingbourne" />
     <SUITE FILE_PATH="coverage/The Book of Ruby_Huw Collingbourne@array2.coverage" NAME="array2 Coverage Results" MODIFIED="1450660980115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/chapter 4" MODULE_NAME="The Book of Ruby_Huw Collingbourne" />
     <SUITE FILE_PATH="coverage/The Book of Ruby_Huw Collingbourne@assign_ref.coverage" NAME="assign_ref Coverage Results" MODIFIED="1450919174238" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/chapter 8" MODULE_NAME="The Book of Ruby_Huw Collingbourne" />
     <SUITE FILE_PATH="coverage/The Book of Ruby_Huw Collingbourne@proc_create.coverage" NAME="proc_create Coverage Results" MODIFIED="1450929715621" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/chapter 10" MODULE_NAME="The Book of Ruby_Huw Collingbourne" />
@@ -47,8 +51,12 @@
     <SUITE FILE_PATH="coverage/The Book of Ruby_Huw Collingbourne@append_concat.coverage" NAME="append_concat Coverage Results" MODIFIED="1450712063577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/chapter 4" MODULE_NAME="The Book of Ruby_Huw Collingbourne" />
     <SUITE FILE_PATH="coverage/The Book of Ruby_Huw Collingbourne@hash_ops.coverage" NAME="hash_ops Coverage Results" MODIFIED="1450711546051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/chapter 4" MODULE_NAME="The Book of Ruby_Huw Collingbourne" />
     <SUITE FILE_PATH="coverage/The Book of Ruby_Huw Collingbourne@include_enum.coverage" NAME="include_enum Coverage Results" MODIFIED="1450721712878" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/chapter 5" MODULE_NAME="The Book of Ruby_Huw Collingbourne" />
+    <SUITE FILE_PATH="coverage/The Book of Ruby_Huw Collingbourne@require_module.coverage" NAME="require_module Coverage Results" MODIFIED="1451006765387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/chapter 12" MODULE_NAME="The Book of Ruby_Huw Collingbourne" />
     <SUITE FILE_PATH="coverage/The Book of Ruby_Huw Collingbourne@parentheses.coverage" NAME="parentheses Coverage Results" MODIFIED="1450919998749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/chapter 8" MODULE_NAME="The Book of Ruby_Huw Collingbourne" />
+    <SUITE FILE_PATH="coverage/The Book of Ruby_Huw Collingbourne@extend.coverage" NAME="extend Coverage Results" MODIFIED="1451010934113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/chapter 12" MODULE_NAME="The Book of Ruby_Huw Collingbourne" />
     <SUITE FILE_PATH="coverage/The Book of Ruby_Huw Collingbourne@if_then.coverage" NAME="if_then Coverage Results" MODIFIED="1450741458442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/chapter 6" MODULE_NAME="The Book of Ruby_Huw Collingbourne" />
+    <SUITE FILE_PATH="coverage/The Book of Ruby_Huw Collingbourne@modules1.coverage" NAME="modules1 Coverage Results" MODIFIED="1451002586915" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/chapter 12" MODULE_NAME="The Book of Ruby_Huw Collingbourne" />
+    <SUITE FILE_PATH="coverage/The Book of Ruby_Huw Collingbourne@modules4.coverage" NAME="modules4 Coverage Results" MODIFIED="1451003805981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/chapter 12" MODULE_NAME="The Book of Ruby_Huw Collingbourne" />
     <SUITE FILE_PATH="coverage/The Book of Ruby_Huw Collingbourne@comparisons.coverage" NAME="comparisons Coverage Results" MODIFIED="1450664377680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/chapter 4" MODULE_NAME="The Book of Ruby_Huw Collingbourne" />
     <SUITE FILE_PATH="coverage/The Book of Ruby_Huw Collingbourne@closures1.coverage" NAME="closures1 Coverage Results" MODIFIED="1450992746366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/chapter 10" MODULE_NAME="The Book of Ruby_Huw Collingbourne" />
     <SUITE FILE_PATH="coverage/The Book of Ruby_Huw Collingbourne@multi_array.coverage" NAME="multi_array Coverage Results" MODIFIED="1450714692792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/chapter 5" MODULE_NAME="The Book of Ruby_Huw Collingbourne" />
@@ -61,10 +69,12 @@
     <SUITE FILE_PATH="coverage/The Book of Ruby_Huw Collingbourne@add_method.coverage" NAME="add_method Coverage Results" MODIFIED="1450997934484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/chapter 11" MODULE_NAME="The Book of Ruby_Huw Collingbourne" />
     <SUITE FILE_PATH="coverage/The Book of Ruby_Huw Collingbourne@2helloname.coverage" NAME="2helloname Coverage Results" MODIFIED="1450624413433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" MODULE_NAME="The Book of Ruby_Huw Collingbourne" />
     <SUITE FILE_PATH="coverage/The Book of Ruby_Huw Collingbourne@1blocks.coverage" NAME="1blocks Coverage Results" MODIFIED="1450927834638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/chapter 10" MODULE_NAME="The Book of Ruby_Huw Collingbourne" />
+    <SUITE FILE_PATH="coverage/The Book of Ruby_Huw Collingbourne@alias_methods.coverage" NAME="alias_methods Coverage Results" MODIFIED="1451005903301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/chapter 12" MODULE_NAME="The Book of Ruby_Huw Collingbourne" />
     <SUITE FILE_PATH="coverage/The Book of Ruby_Huw Collingbourne@3strings.coverage" NAME="3strings Coverage Results" MODIFIED="1450653950219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" MODULE_NAME="The Book of Ruby_Huw Collingbourne" />
     <SUITE FILE_PATH="coverage/The Book of Ruby_Huw Collingbourne@4calctax.coverage" NAME="4calctax Coverage Results" MODIFIED="1450625643266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" MODULE_NAME="The Book of Ruby_Huw Collingbourne" />
     <SUITE FILE_PATH="coverage/The Book of Ruby_Huw Collingbourne@if_elsif.coverage" NAME="if_elsif Coverage Results" MODIFIED="1450742830013" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/chapter 6" MODULE_NAME="The Book of Ruby_Huw Collingbourne" />
     <SUITE FILE_PATH="coverage/The Book of Ruby_Huw Collingbourne@precedence.coverage" NAME="precedence Coverage Results" MODIFIED="1450988894505" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/chapter 10" MODULE_NAME="The Book of Ruby_Huw Collingbourne" />
+    <SUITE FILE_PATH="coverage/The Book of Ruby_Huw Collingbourne@module_inst.coverage" NAME="module_inst Coverage Results" MODIFIED="1451007901853" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/chapter 12" MODULE_NAME="The Book of Ruby_Huw Collingbourne" />
     <SUITE FILE_PATH="coverage/The Book of Ruby_Huw Collingbourne@until.coverage" NAME="until Coverage Results" MODIFIED="1450717206354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/chapter 5" MODULE_NAME="The Book of Ruby_Huw Collingbourne" />
     <SUITE FILE_PATH="coverage/The Book of Ruby_Huw Collingbourne@multi_except2.coverage" NAME="multi_except2 Coverage Results" MODIFIED="1450921980096" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/chapter 9" MODULE_NAME="The Book of Ruby_Huw Collingbourne" />
     <SUITE FILE_PATH="coverage/The Book of Ruby_Huw Collingbourne@else.coverage" NAME="else Coverage Results" MODIFIED="1450924110717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/chapter 9" MODULE_NAME="The Book of Ruby_Huw Collingbourne" />
@@ -76,10 +86,13 @@
     <SUITE FILE_PATH="coverage/The Book of Ruby_Huw Collingbourne@symbols_1.coverage" NAME="symbols_1 Coverage Results" MODIFIED="1450995174596" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/chapter 11" MODULE_NAME="The Book of Ruby_Huw Collingbourne" />
     <SUITE FILE_PATH="coverage/The Book of Ruby_Huw Collingbourne@super_args.coverage" NAME="super_args Coverage Results" MODIFIED="1450635698224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" MODULE_NAME="The Book of Ruby_Huw Collingbourne" />
     <SUITE FILE_PATH="coverage/The Book of Ruby_Huw Collingbourne@block_closure.coverage" NAME="block_closure Coverage Results" MODIFIED="1450930837765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/chapter 10" MODULE_NAME="The Book of Ruby_Huw Collingbourne" />
+    <SUITE FILE_PATH="coverage/The Book of Ruby_Huw Collingbourne@mod_vars.coverage" NAME="mod_vars Coverage Results" MODIFIED="1451004117231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/chapter 12" MODULE_NAME="The Book of Ruby_Huw Collingbourne" />
     <SUITE FILE_PATH="coverage/The Book of Ruby_Huw Collingbourne@partial_classes.coverage" NAME="partial_classes Coverage Results" MODIFIED="1450652906865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" MODULE_NAME="The Book of Ruby_Huw Collingbourne" />
     <SUITE FILE_PATH="coverage/The Book of Ruby_Huw Collingbourne@string_concat.coverage" NAME="string_concat Coverage Results" MODIFIED="1450655082604" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" MODULE_NAME="The Book of Ruby_Huw Collingbourne" />
     <SUITE FILE_PATH="coverage/The Book of Ruby_Huw Collingbourne@1helloworld.coverage" NAME="1helloworld Coverage Results" MODIFIED="1450624189778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" MODULE_NAME="The Book of Ruby_Huw Collingbourne" />
     <SUITE FILE_PATH="coverage/The Book of Ruby_Huw Collingbourne@ints_and_symbols.coverage" NAME="ints_and_symbols Coverage Results" MODIFIED="1450994772471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/chapter 11" MODULE_NAME="The Book of Ruby_Huw Collingbourne" />
+    <SUITE FILE_PATH="coverage/The Book of Ruby_Huw Collingbourne@happy_sad.coverage" NAME="happy_sad Coverage Results" MODIFIED="1451005296454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/chapter 12" MODULE_NAME="The Book of Ruby_Huw Collingbourne" />
+    <SUITE FILE_PATH="coverage/The Book of Ruby_Huw Collingbourne@test.coverage" NAME="test Coverage Results" MODIFIED="1451007643608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/chapter 12" MODULE_NAME="The Book of Ruby_Huw Collingbourne" />
     <SUITE FILE_PATH="coverage/The Book of Ruby_Huw Collingbourne@concat.coverage" NAME="concat Coverage Results" MODIFIED="1450917732977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/chapter 8" MODULE_NAME="The Book of Ruby_Huw Collingbourne" />
     <SUITE FILE_PATH="coverage/The Book of Ruby_Huw Collingbourne@array_index.coverage" NAME="array_index Coverage Results" MODIFIED="1450662421229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/chapter 4" MODULE_NAME="The Book of Ruby_Huw Collingbourne" />
     <SUITE FILE_PATH="coverage/The Book of Ruby_Huw Collingbourne@symbol_ref.coverage" NAME="symbol_ref Coverage Results" MODIFIED="1450995643125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/chapter 11" MODULE_NAME="The Book of Ruby_Huw Collingbourne" />
@@ -92,16 +105,21 @@
     <SUITE FILE_PATH="coverage/The Book of Ruby_Huw Collingbourne@multi_except.coverage" NAME="multi_except Coverage Results" MODIFIED="1450921571729" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/chapter 9" MODULE_NAME="The Book of Ruby_Huw Collingbourne" />
     <SUITE FILE_PATH="coverage/The Book of Ruby_Huw Collingbourne@block_closure2.coverage" NAME="block_closure2 Coverage Results" MODIFIED="1450991262380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/chapter 10" MODULE_NAME="The Book of Ruby_Huw Collingbourne" />
     <SUITE FILE_PATH="coverage/The Book of Ruby_Huw Collingbourne@class_hierarchy.coverage" NAME="class_hierarchy Coverage Results" MODIFIED="1450905557209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/chapter 7" MODULE_NAME="The Book of Ruby_Huw Collingbourne" />
+    <SUITE FILE_PATH="coverage/The Book of Ruby_Huw Collingbourne@modules3.coverage" NAME="modules3 Coverage Results" MODIFIED="1451003197292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/chapter 12" MODULE_NAME="The Book of Ruby_Huw Collingbourne" />
     <SUITE FILE_PATH="coverage/The Book of Ruby_Huw Collingbourne@3loops.coverage" NAME="3loops Coverage Results" MODIFIED="1450717487201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/chapter 5" MODULE_NAME="The Book of Ruby_Huw Collingbourne" />
     <SUITE FILE_PATH="coverage/The Book of Ruby_Huw Collingbourne@array1.coverage" NAME="array1 Coverage Results" MODIFIED="1450660139712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/chapter 4" MODULE_NAME="The Book of Ruby_Huw Collingbourne" />
     <SUITE FILE_PATH="coverage/The Book of Ruby_Huw Collingbourne@local_var_scopr.coverage" NAME="local_var_scopr Coverage Results" MODIFIED="1450993770291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/chapter 10" MODULE_NAME="The Book of Ruby_Huw Collingbourne" />
+    <SUITE FILE_PATH="coverage/The Book of Ruby_Huw Collingbourne@require_again.coverage" NAME="require_again Coverage Results" MODIFIED="1451007695329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/chapter 12" MODULE_NAME="The Book of Ruby_Huw Collingbourne" />
     <SUITE FILE_PATH="coverage/The Book of Ruby_Huw Collingbourne@array_assign.coverage" NAME="array_assign Coverage Results" MODIFIED="1450663043576" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/chapter 4" MODULE_NAME="The Book of Ruby_Huw Collingbourne" />
     <SUITE FILE_PATH="coverage/The Book of Ruby_Huw Collingbourne@5taxcalculator.coverage" NAME="5taxcalculator Coverage Results" MODIFIED="1450625947832" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" MODULE_NAME="The Book of Ruby_Huw Collingbourne" />
     <SUITE FILE_PATH="coverage/The Book of Ruby_Huw Collingbourne@equal_tests.coverage" NAME="equal_tests Coverage Results" MODIFIED="1450919456582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/chapter 8" MODULE_NAME="The Book of Ruby_Huw Collingbourne" />
     <SUITE FILE_PATH="coverage/The Book of Ruby_Huw Collingbourne@4blocks.coverage" NAME="4blocks Coverage Results" MODIFIED="1450967598896" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/chapter 10" MODULE_NAME="The Book of Ruby_Huw Collingbourne" />
+    <SUITE FILE_PATH="coverage/The Book of Ruby_Huw Collingbourne@modules2.coverage" NAME="modules2 Coverage Results" MODIFIED="1451002976792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/chapter 12" MODULE_NAME="The Book of Ruby_Huw Collingbourne" />
+    <SUITE FILE_PATH="coverage/The Book of Ruby_Huw Collingbourne@multimods.coverage" NAME="multimods Coverage Results" MODIFIED="1451006539498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/chapter 12" MODULE_NAME="The Book of Ruby_Huw Collingbourne" />
     <SUITE FILE_PATH="coverage/The Book of Ruby_Huw Collingbourne@for_each.coverage" NAME="for_each Coverage Results" MODIFIED="1450714052784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/chapter 5" MODULE_NAME="The Book of Ruby_Huw Collingbourne" />
     <SUITE FILE_PATH="coverage/The Book of Ruby_Huw Collingbourne@enum.coverage" NAME="enum Coverage Results" MODIFIED="1450718219752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/chapter 5" MODULE_NAME="The Book of Ruby_Huw Collingbourne" />
     <SUITE FILE_PATH="coverage/The Book of Ruby_Huw Collingbourne@singleton_meth1.coverage" NAME="singleton_meth1 Coverage Results" MODIFIED="1450905818595" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/chapter 7" MODULE_NAME="The Book of Ruby_Huw Collingbourne" />
+    <SUITE FILE_PATH="coverage/The Book of Ruby_Huw Collingbourne@load_again.coverage" NAME="load_again Coverage Results" MODIFIED="1451007791788" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/chapter 12" MODULE_NAME="The Book of Ruby_Huw Collingbourne" />
     <SUITE FILE_PATH="coverage/The Book of Ruby_Huw Collingbourne@errno.coverage" NAME="errno Coverage Results" MODIFIED="1450924306777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/chapter 9" MODULE_NAME="The Book of Ruby_Huw Collingbourne" />
     <SUITE FILE_PATH="coverage/The Book of Ruby_Huw Collingbourne@block_syntax.coverage" NAME="block_syntax Coverage Results" MODIFIED="1450715113537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/chapter 5" MODULE_NAME="The Book of Ruby_Huw Collingbourne" />
     <SUITE FILE_PATH="coverage/The Book of Ruby_Huw Collingbourne@new.coverage" NAME="new Coverage Results" MODIFIED="1450904912842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/chapter 7" MODULE_NAME="The Book of Ruby_Huw Collingbourne" />
@@ -112,13 +130,16 @@
     <SUITE FILE_PATH="coverage/The Book of Ruby_Huw Collingbourne@retry.coverage" NAME="retry Coverage Results" MODIFIED="1450924718426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/chapter 9" MODULE_NAME="The Book of Ruby_Huw Collingbourne" />
     <SUITE FILE_PATH="coverage/The Book of Ruby_Huw Collingbourne@symbols_2.coverage" NAME="symbols_2 Coverage Results" MODIFIED="1450997053407" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/chapter 11" MODULE_NAME="The Book of Ruby_Huw Collingbourne" />
     <SUITE FILE_PATH="coverage/The Book of Ruby_Huw Collingbourne@iterate3.coverage" NAME="iterate3 Coverage Results" MODIFIED="1450990988418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/chapter 10" MODULE_NAME="The Book of Ruby_Huw Collingbourne" />
+    <SUITE FILE_PATH="coverage/The Book of Ruby_Huw Collingbourne@math.coverage" NAME="math Coverage Results" MODIFIED="1451008419304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/chapter 12" MODULE_NAME="The Book of Ruby_Huw Collingbourne" />
     <SUITE FILE_PATH="coverage/The Book of Ruby_Huw Collingbourne@heredoc.coverage" NAME="heredoc Coverage Results" MODIFIED="1450658210527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" MODULE_NAME="The Book of Ruby_Huw Collingbourne" />
     <SUITE FILE_PATH="coverage/The Book of Ruby_Huw Collingbourne@if_elsif2.coverage" NAME="if_elsif2 Coverage Results" MODIFIED="1450743183964" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/chapter 6" MODULE_NAME="The Book of Ruby_Huw Collingbourne" />
     <SUITE FILE_PATH="coverage/The Book of Ruby_Huw Collingbourne@variables.coverage" NAME="variables Coverage Results" MODIFIED="1450633782045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" MODULE_NAME="The Book of Ruby_Huw Collingbourne" />
     <SUITE FILE_PATH="coverage/The Book of Ruby_Huw Collingbourne@return_many.coverage" NAME="return_many Coverage Results" MODIFIED="1450911726601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/chapter 8" MODULE_NAME="The Book of Ruby_Huw Collingbourne" />
     <SUITE FILE_PATH="coverage/The Book of Ruby_Huw Collingbourne@case4.coverage" NAME="case4 Coverage Results" MODIFIED="1450746295927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/chapter 6" MODULE_NAME="The Book of Ruby_Huw Collingbourne" />
+    <SUITE FILE_PATH="coverage/The Book of Ruby_Huw Collingbourne@inst_class_vars.coverage" NAME="inst_class_vars Coverage Results" MODIFIED="1451004836176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/chapter 12" MODULE_NAME="The Book of Ruby_Huw Collingbourne" />
     <SUITE FILE_PATH="coverage/The Book of Ruby_Huw Collingbourne@1loops.coverage" NAME="1loops Coverage Results" MODIFIED="1450716257147" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/chapter 5" MODULE_NAME="The Book of Ruby_Huw Collingbourne" />
     <SUITE FILE_PATH="coverage/The Book of Ruby_Huw Collingbourne@1strings.coverage" NAME="1strings Coverage Results" MODIFIED="1450653603314" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" MODULE_NAME="The Book of Ruby_Huw Collingbourne" />
+    <SUITE FILE_PATH="coverage/The Book of Ruby_Huw Collingbourne@compare.coverage" NAME="compare Coverage Results" MODIFIED="1451009062597" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/chapter 12" MODULE_NAME="The Book of Ruby_Huw Collingbourne" />
     <SUITE FILE_PATH="coverage/The Book of Ruby_Huw Collingbourne@each_loop.coverage" NAME="each_loop Coverage Results" MODIFIED="1450713536470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/chapter 5" MODULE_NAME="The Book of Ruby_Huw Collingbourne" />
     <SUITE FILE_PATH="coverage/The Book of Ruby_Huw Collingbourne@8to_s.coverage" NAME="8to_s Coverage Results" MODIFIED="1450634143205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" MODULE_NAME="The Book of Ruby_Huw Collingbourne" />
     <SUITE FILE_PATH="coverage/The Book of Ruby_Huw Collingbourne@3string_eval.coverage" NAME="3string_eval Coverage Results" MODIFIED="1450624872098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" MODULE_NAME="The Book of Ruby_Huw Collingbourne" />
@@ -134,28 +155,7 @@
     <favorites_list name="The Book of Ruby_Huw Collingbourne" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="add_method.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chapter 11/add_method.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="allsymbols.rb" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/chapter 11/allsymbols.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.20481928">
-              <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -163,27 +163,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/chapter 8/default_args.rb" />
-        <option value="$PROJECT_DIR$/src/chapter 8/objectids.rb" />
-        <option value="$PROJECT_DIR$/src/chapter 8/hidden.rb" />
-        <option value="$PROJECT_DIR$/src/chapter 8/not_hidden.rb" />
-        <option value="$PROJECT_DIR$/src/chapter 8/concat.rb" />
-        <option value="$PROJECT_DIR$/src/chapter 8/parallel_assign.rb" />
-        <option value="$PROJECT_DIR$/src/chapter 8/assign_ref.rb" />
-        <option value="$PROJECT_DIR$/src/chapter 8/equal_tests.rb" />
-        <option value="$PROJECT_DIR$/src/chapter 8/identical.rb" />
-        <option value="$PROJECT_DIR$/src/chapter 8/parentheses.rb" />
-        <option value="$PROJECT_DIR$/src/chapter 9/exception1.rb" />
-        <option value="$PROJECT_DIR$/src/chapter 9/multi_except.rb" />
-        <option value="$PROJECT_DIR$/src/chapter 9/multi_except2.rb" />
-        <option value="$PROJECT_DIR$/src/chapter 9/ensure.rb" />
-        <option value="$PROJECT_DIR$/src/chapter 9/ensure2.rb" />
-        <option value="$PROJECT_DIR$/src/chapter 9/else.rb" />
-        <option value="$PROJECT_DIR$/src/chapter 9/errno.rb" />
-        <option value="$PROJECT_DIR$/src/chapter 9/retry.rb" />
-        <option value="$PROJECT_DIR$/src/chapter 9/retry2.rb" />
-        <option value="$PROJECT_DIR$/src/chapter 9/raise.rb" />
-        <option value="$PROJECT_DIR$/src/chapter 9/raise3.rb" />
         <option value="$PROJECT_DIR$/src/chapter 9/omit_begin_end.rb" />
         <option value="$PROJECT_DIR$/src/chapter 9/catch_except.rb" />
         <option value="$PROJECT_DIR$/src/chapter 10/1blocks.rb" />
@@ -214,6 +193,27 @@
         <option value="$PROJECT_DIR$/src/chapter 11/symbols_3.rb" />
         <option value="$PROJECT_DIR$/src/chapter 11/add_method.rb" />
         <option value="$PROJECT_DIR$/src/chapter 11/allsymbols.rb" />
+        <option value="$PROJECT_DIR$/src/chapter 12/modules1.rb" />
+        <option value="$PROJECT_DIR$/src/chapter 12/modules2.rb" />
+        <option value="$PROJECT_DIR$/src/chapter 12/modules3.rb" />
+        <option value="$PROJECT_DIR$/src/chapter 12/modules4.rb" />
+        <option value="$PROJECT_DIR$/src/chapter 12/mod_vars.rb" />
+        <option value="$PROJECT_DIR$/src/chapter 12/inst_class_vars.rb" />
+        <option value="$PROJECT_DIR$/src/chapter 12/happy_sad.rb" />
+        <option value="$PROJECT_DIR$/src/chapter 12/alias_methods.rb" />
+        <option value="$PROJECT_DIR$/src/chapter 12/multimods.rb" />
+        <option value="$PROJECT_DIR$/src/chapter 12/testmod.rb" />
+        <option value="$PROJECT_DIR$/src/chapter 12/require_module.rb" />
+        <option value="$PROJECT_DIR$/src/chapter 12/load_module.rb" />
+        <option value="$PROJECT_DIR$/src/chapter 12/test.rb" />
+        <option value="$PROJECT_DIR$/src/chapter 12/require_again.rb" />
+        <option value="$PROJECT_DIR$/src/chapter 12/load_again.rb" />
+        <option value="$PROJECT_DIR$/src/chapter 12/module_inst.rb" />
+        <option value="$PROJECT_DIR$/src/chapter 12/math.rb" />
+        <option value="$PROJECT_DIR$/src/chapter 12/compare.rb" />
+        <option value="$PROJECT_DIR$/src/chapter 12/scope_resolution.rb" />
+        <option value="$PROJECT_DIR$/src/chapter 12/module_func.rb" />
+        <option value="$PROJECT_DIR$/src/chapter 12/extend.rb" />
       </list>
     </option>
   </component>
@@ -290,7 +290,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="chapter 11" />
+              <option name="myItemId" value="chapter 12" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -311,11 +311,11 @@
       <recent name="D:\FALSE\workspace\Ruby_Workspace\The Book of Ruby_Huw Collingbourne\src\chapter 1-3" />
     </key>
   </component>
-  <component name="RunManager" selected="Ruby.allsymbols">
-    <configuration default="false" name="symbol_ref2" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+  <component name="RunManager" selected="Ruby.extend">
+    <configuration default="false" name="math" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="The Book of Ruby_Huw Collingbourne" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/src/chapter 11" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/src/chapter 12" />
       <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
       <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
       <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
@@ -323,14 +323,14 @@
       <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
       <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
       <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/src/chapter 11/symbol_ref2.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/src/chapter 12/math.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method />
     </configuration>
-    <configuration default="false" name="symbols_2" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+    <configuration default="false" name="compare" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="The Book of Ruby_Huw Collingbourne" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/src/chapter 11" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/src/chapter 12" />
       <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
       <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
       <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
@@ -338,14 +338,14 @@
       <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
       <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
       <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/src/chapter 11/symbols_2.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/src/chapter 12/compare.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method />
     </configuration>
-    <configuration default="false" name="symbols_3" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+    <configuration default="false" name="scope_resolution" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="The Book of Ruby_Huw Collingbourne" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/src/chapter 11" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/src/chapter 12" />
       <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
       <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
       <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
@@ -353,14 +353,14 @@
       <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
       <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
       <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/src/chapter 11/symbols_3.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/src/chapter 12/scope_resolution.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method />
     </configuration>
-    <configuration default="false" name="add_method" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+    <configuration default="false" name="module_func" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="The Book of Ruby_Huw Collingbourne" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/src/chapter 11" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/src/chapter 12" />
       <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
       <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
       <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
@@ -368,14 +368,14 @@
       <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
       <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
       <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/src/chapter 11/add_method.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/src/chapter 12/module_func.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method />
     </configuration>
-    <configuration default="false" name="allsymbols" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+    <configuration default="false" name="extend" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="The Book of Ruby_Huw Collingbourne" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/src/chapter 11" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/src/chapter 12" />
       <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
       <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
       <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
@@ -383,7 +383,7 @@
       <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
       <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
       <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/src/chapter 11/allsymbols.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/src/chapter 12/extend.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method />
     </configuration>
@@ -500,19 +500,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Ruby.symbol_ref2" />
-      <item index="1" class="java.lang.String" itemvalue="Ruby.symbols_2" />
-      <item index="2" class="java.lang.String" itemvalue="Ruby.symbols_3" />
-      <item index="3" class="java.lang.String" itemvalue="Ruby.add_method" />
-      <item index="4" class="java.lang.String" itemvalue="Ruby.allsymbols" />
+      <item index="0" class="java.lang.String" itemvalue="Ruby.math" />
+      <item index="1" class="java.lang.String" itemvalue="Ruby.compare" />
+      <item index="2" class="java.lang.String" itemvalue="Ruby.scope_resolution" />
+      <item index="3" class="java.lang.String" itemvalue="Ruby.module_func" />
+      <item index="4" class="java.lang.String" itemvalue="Ruby.extend" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Ruby.allsymbols" />
-        <item index="1" class="java.lang.String" itemvalue="Ruby.add_method" />
-        <item index="2" class="java.lang.String" itemvalue="Ruby.symbols_3" />
-        <item index="3" class="java.lang.String" itemvalue="Ruby.symbols_2" />
-        <item index="4" class="java.lang.String" itemvalue="Ruby.symbol_ref2" />
+        <item index="0" class="java.lang.String" itemvalue="Ruby.extend" />
+        <item index="1" class="java.lang.String" itemvalue="Ruby.module_func" />
+        <item index="2" class="java.lang.String" itemvalue="Ruby.scope_resolution" />
+        <item index="3" class="java.lang.String" itemvalue="Ruby.compare" />
+        <item index="4" class="java.lang.String" itemvalue="Ruby.math" />
       </list>
     </recent_temporary>
   </component>
@@ -531,14 +531,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24304539" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3287879" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3287879" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -568,160 +568,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/chapter 8/arg_passing.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter 8/assign_ref.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter 8/equal_tests.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter 8/identical.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter 8/parentheses.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter 9/exception1.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter 9/div_by_zero.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter 9/exception2.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter 9/exception_tree.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter 9/multi_except.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter 9/multi_except2.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter 9/multi_except_err.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter 9/ensure.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter 9/ensure2.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="49" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter 9/catch_except.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.20481928">
-          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter 9/omit_begin_end.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8192771">
-          <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter 9/raise3.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.24578314">
-          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter 9/raise2.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter 9/raise.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6554217">
-          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter 9/retry2.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.28674698">
-          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter 9/retry.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.12289157">
-          <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter 9/errno.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.12289157">
-          <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/chapter 9/else.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.24578314">
@@ -947,8 +793,184 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/chapter 11/allsymbols.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.20481928">
+        <state vertical-scroll-proportion="0.0">
           <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter 12/modules1.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter 12/modules2.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter 12/modules3.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter 12/modules4.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter 12/mod_vars.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter 12/inst_class_vars.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter 12/happy_sad.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter 12/alias_methods.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="29" column="21" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter 12/multimods.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter 12/testmod.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter 12/require_module.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="20" selection-start-line="0" selection-start-column="20" selection-end-line="0" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter 12/load_module.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="24" selection-start-line="0" selection-start-column="24" selection-end-line="0" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter 12/extend.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.09879518">
+          <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter 12/module_func.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.20481928">
+          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter 12/scope_resolution.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.75421685">
+          <caret line="24" column="6" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter 12/compare.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4506024">
+          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter 12/math.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.08192771">
+          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter 12/modules_classes.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter 12/module_inst.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.16385542">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter 12/load_again.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.08192771">
+          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter 12/require_again.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="14" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter 12/test.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.16385542">
+          <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
           <folding />
         </state>
       </provider>
