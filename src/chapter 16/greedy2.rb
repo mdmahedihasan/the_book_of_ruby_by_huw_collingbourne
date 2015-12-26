@@ -1,0 +1,1 @@
+puts(/.+?\\/.match('C:\mydirectory\myfolder\myfile.txt'))
